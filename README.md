@@ -1,5 +1,3 @@
-# Ivanti Secure Access Client
-
 **Ivanti Secure Access Client** is a powerful, reliable, and easy-to-use application designed to provide secure and seamless remote access to corporate resources. By leveraging advanced VPN technology and robust encryption protocols, it ensures that users can connect to private networks securely from anywhere, enabling productivity while maintaining strict security standards.
 
 ## Key Features
